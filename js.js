@@ -2,7 +2,7 @@
         {
             id: 0,
             name: 'men',
-            narxi: 25,
+            narxi: 150,
             img: "./img/men 2.png",
             count: 0,
             like: true
@@ -10,7 +10,7 @@
         {
             id: 1,
             name: 'women',
-            narxi: 25,
+            narxi: 200,
             img: "./img/women 1.png",
             count: 0,
             like: true
@@ -18,7 +18,7 @@
         {
             id: 2,
             name: 'asthetics',
-            narxi: 25,
+            narxi: 100,
             img: "./img/asthetics 1.png",
             count: 0,
             like: true
